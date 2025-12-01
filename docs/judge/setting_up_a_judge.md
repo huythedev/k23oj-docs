@@ -115,5 +115,3 @@ If you want multiple judge instances, modify:
 * `-a 12345` → different judge-exposed port
 
 All judges may connect to the same bridge port (`-p 9999`) unless using multiple bridges.
-
-```
